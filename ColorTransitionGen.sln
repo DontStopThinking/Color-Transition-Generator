@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 17
+VisualStudioVersion = 17.11.35201.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ColorTransitionGen", "projects\ColorTransitionGen\ColorTransitionGen.vcxproj", "{CF17126A-70C5-4C49-A417-8F4A34424789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF17126A-70C5-4C49-A417-8F4A34424789}.Debug|x64.ActiveCfg = Debug|x64
+		{CF17126A-70C5-4C49-A417-8F4A34424789}.Debug|x64.Build.0 = Debug|x64
+		{CF17126A-70C5-4C49-A417-8F4A34424789}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF17126A-70C5-4C49-A417-8F4A34424789}.Debug|x86.Build.0 = Debug|Win32
+		{CF17126A-70C5-4C49-A417-8F4A34424789}.Release|x64.ActiveCfg = Release|x64
+		{CF17126A-70C5-4C49-A417-8F4A34424789}.Release|x64.Build.0 = Release|x64
+		{CF17126A-70C5-4C49-A417-8F4A34424789}.Release|x86.ActiveCfg = Release|Win32
+		{CF17126A-70C5-4C49-A417-8F4A34424789}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96A9123B-1E11-4A79-8625-9698EF00A7DB}
+	EndGlobalSection
+EndGlobal
